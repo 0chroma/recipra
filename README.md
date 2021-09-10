@@ -4,6 +4,10 @@ A modular, decentralized social network for heirarchy-free communities
 
 Recipra's goal is to allow the layperson to easily make a cooperative community. Communities built with Recipra can be customized with functionality like chat, voice calls, and events, and can even be extended with custom plugins. Communities on Recipra don't require a moderation team, making it relatively stress-free to create one. They also don't require hosting, making it easy for non-technical people and free from the influence and privacy violations of privately owned and monetized platforms.
 
+## Help Needed
+
+Since this is a fairly ambitious project, it can use as many volunteers as possible! If you think you can help, don't be afraid to reach out!
+
 ## FAQ
 
 ### Why aren't there things like admins and moderators? How will communities stay civil?
