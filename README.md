@@ -39,7 +39,7 @@ If the community enables it, they can be shown in a public directory. You'll be 
 - Smartphone Friendly: Devices with limited storage can pull down data from those with ample storage on-demand. Devices with metered connections can set limits to how much data they serve.
 - Communal Resources: Group members are incentivized to install the application on devices with reliable, high bandwitdh connections in order to increase the community's capabilities (ie, granting the members higher video call quality)
 - Modularity: The application should act only as scaffolding for creating a decentralized community, members should be able to adapt the application for their needs through user-made plugins
-- Portability: The application should work on low-cost or public devices that are accessible to everyone
+- Portability: Needs to work across lots of different hardware, *especially* low-cost or second hand devices. It should be easy to port to different UI toolkits/platforms.
 
 ## Plugin Ideas
 
