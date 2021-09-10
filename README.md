@@ -2,7 +2,7 @@
 
 A modular, decentralized social network for heirarchy-free communities
 
-Recipra's goal is to allow the layperson to easily make a cooperative community. Communities built with Recipra can be customized with functionality like chat, voice calls, and events, and can even be extended with custom plugins. Communities on Recipra don't require a moderation team, making it relatively stress-free to create one. They also don't require hosting, making it easy for non-technical people and free from the influence and privacy violations of privately owned and monetized platforms.
+Recipra is an application that allows the layperson to easily start a cooperatively run community. Communities built with Recipra can have chat, voice calls, events, and can even be extended with custom plugins. Recipra doesn't have a concept of moderation teams, making it relatively stress-free to run. They also don't require hosting, making it easy for non-technical people to create a community, and making it free from influence and privacy violations that come with privately owned and monetized platforms.
 
 ## Help Needed
 
@@ -30,12 +30,12 @@ If the community enables it, they can be shown in a public directory. You'll be 
 
 - Decentralized Identity: Create an identity once on your device, and use it anywhere. There isn't a need to choose a server that hosts your identity like you would with federated solutions.
 - Passwordless Login: The application transfers your existing identity to a new device in order to "sign in". You can also keep a backup code in the event that all your devices are lost.
-- Data Locality: Group related data is only stored on members' devices, and is *not* stored on a global blockchain
+- Data Locality: Community related data is only stored on member devices, and is *not* stored on a global blockchain
 - Data Decentralization: Any member's device can serve data to another community member's devices, making the data highly available in the event of a device going offline temporarily. Data will also be available across many physical locations for low-latency access.
 - Smartphone Friendly: Devices with limited storage can pull down data from those with ample storage on-demand. Devices with metered connections can set limits to how much data they serve.
 - Communal Resources: Group members are incentivized to install the application on devices with reliable, high bandwitdh connections in order to increase the community's capabilities (ie, granting the members higher video call quality)
 - Modularity: The application should act only as scaffolding for creating a decentralized community, members should be able to adapt the application for their needs through user-made plugins
-- Portability: The application should work on low-cost or public devices that is accessible to everyone
+- Portability: The application should work on low-cost or public devices that are accessible to everyone
 
 ## Plugin Ideas
 
