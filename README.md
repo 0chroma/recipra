@@ -1,7 +1,7 @@
 # Recipra
 
 /rɪˈsɪppra/
-ree·sip·prah
+(ree·sip·prah)
 [Audio](http://ipa-reader.xyz/?text=r%C9%AA%CB%88s%C9%AAppra)
 
 A modular, decentralized social network for heirarchy-free communities
