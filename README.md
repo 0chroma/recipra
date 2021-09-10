@@ -1,5 +1,9 @@
 # Recipra
 
+/rɪˈsɪppra/
+(ree·sip·prah)
+[Audio](http://ipa-reader.xyz/?text=r%C9%AA%CB%88s%C9%AAppra)
+
 A modular, decentralized social network for heirarchy-free communities
 
 Recipra is an application that allows the layperson to easily start a cooperatively run community. Communities built with Recipra can have chat, voice calls, events, and can even be extended with custom plugins. Recipra doesn't have a concept of moderation teams, making it relatively stress-free to run. They also don't require hosting, making it easy for non-technical people to create a community, and making it free from influence and privacy violations that come with privately owned and monetized platforms.
