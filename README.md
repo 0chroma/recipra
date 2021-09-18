@@ -50,6 +50,12 @@ If the community enables it, they can be shown in a public directory. You'll be 
    - closed invites: member proposes an invitation + community votes/discusses
    - simple vote kick/ban with discussion
    - report-based bans: members can anonymously report a user's behavior, if a member is reported by enough users it triggers a tribunal where the validity of the reports can be discussed and voted on
+- Voting Systems
+  - Simple Majority/two-thirds majority
+  - Ranked Choice
+  - Consensus
+  - Active-members only
+  - etc
 - Communication
   - video calls
   - text chat
@@ -64,5 +70,5 @@ If the community enables it, they can be shown in a public directory. You'll be 
   - community rules (with tools to discuss rules and vote to change them)
   - proposals (with consensus/voting tools)
   - member-provided services directory (like in mutual aid groups)
-  - item check-out/check-in (like in a library)
+  - inventory - check-out/check-in (like in a library), trading between groups, history (who helped make/fix it)
   - funds tracking (like opencollective)
