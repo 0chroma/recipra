@@ -16,7 +16,7 @@ Since this is a fairly ambitious project, it can use as many volunteers as possi
 
 ### Will I be able to post on a personal feed, like on other social media?
 
-No, though you'll be able to provide a small profile. Have you ever had a mutual on twitter that you've wanted to talk to, but never knew how to broach the topic? This is exactly the type of scenario Recipra tries to avoid. Social media that acts on the level of the individual often makes us feel more distant from others and pedistalizes a select few. By putting the focus on communities, it makes it easier to form real connections, and allows members to lift each other up.
+No, though you'll be able to provide a small profile. Have you ever had a mutual on twitter that you've wanted to talk to, but never knew how to start the conversation? This is exactly the type of scenario Recipra tries to avoid. Social media that acts on the level of the individual often makes us feel more distant from others and pedestalizes a select few. By putting the focus on communities, it puts less pressure on the individual and makes meeting new people less daunting. It also allows someone's success to bring everyone in the group up together, where an individualized approach would lead to a select few snowballing their platform in isolation.
 
 ### Why aren't there things like admins and moderators? How will communities stay civil?
 
