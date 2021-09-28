@@ -20,7 +20,7 @@ Communities that are dependent on authority figures for moderation are often bad
 
 ### How will unethical or illegal content be removed?
 
-Because members are the ones who host all the community's content, they are soley responsible for it's distribution. Users consent to viewing and serving the content within the community after accepting an invitation, and can preview a communitiy's content before accepting an invitation. Members can leave at any time to delete all community data from their devices and cease serving the data. This should be compatible with existing legal means of prosecuting offenders and removing illegal content.
+Because members are the ones who host all the community's content, they are soley responsible for it's distribution. Users consent to viewing and serving the content within the community after accepting an invitation, and can preview a communitiy's content beforehand. Members can decide collectively to have content removed, and can leave the community if they no longer wish to store and serve it's content. This should be compatible with existing legal means of prosecuting offenders and removing illegal content.
 
 ### Do you need to host a server to start a community?
 
