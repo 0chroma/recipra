@@ -14,6 +14,10 @@ Since this is a fairly ambitious project, it can use as many volunteers as possi
 
 ## FAQ
 
+### Will I be able to post on a personal feed, like on other social media?
+
+No, though you'll be able to provide a small profile. Have you ever had a mutual on twitter that you've wanted to talk to, but never knew how to broach the topic? This is exactly the type of scenario Recipra tries to avoid. Social media that acts on the level of the individual often makes us feel more distant from others and pedistalizes a select few. By putting the focus on communities, it makes it easier to form real connections, and allows members to lift each other up.
+
 ### Why aren't there things like admins and moderators? How will communities stay civil?
 
 Communities that are dependent on authority figures for moderation are often bad for both parties: the moderation team often burns out since it's a stressful and thankless position to be in, and members can often feel unfairly treated if a single moderator abuses their authority. Distributing this responsibility gives everyone ownership over the community: the burden of making a bad decision won't lie on a single person's shoulders and allows the whole community to learn from the experience, and members are incentivized to limit invitations to people who won't cause drama.
@@ -22,13 +26,13 @@ Communities that are dependent on authority figures for moderation are often bad
 
 Because members are the ones who host all the community's content, they are soley responsible for it's distribution. Users consent to viewing and serving the content within the community after accepting an invitation, and can preview a communitiy's content beforehand. Members can decide collectively to have content removed, and can leave the community if they no longer wish to store and serve it's content. This should be compatible with existing legal means of prosecuting offenders and removing illegal content.
 
+### How well will this scale?
+
+There hasn't been many applications that have implemented a moderation system like this without succumbing to tyranny of the majority, which is why communities will likely work best at smaller scales where everyone knows each other and new members can be properly vetted. Communities will likely work best with 100 or fewer members. For more ambitious efforts, it's probably better to have tools for having multiple communities organize together rather than figuring out how to make the communities themselves larger.
+
 ### Do you need to host a server to start a community?
 
 No, the community's data is stored and transmitted between devices without the need of a server like you would with a federated service.
-
-### How do I find new communities?
-
-If the community enables it, they can be shown in a public directory. You'll be able to find communities that are accepting new members, and can search based on interests and location. Alternatively you can be invited by friends who are already members.
 
 ## Technical Principals
 
@@ -46,7 +50,8 @@ If the community enables it, they can be shown in a public directory. You'll be 
 - Member management
    - open invites
    - approval based invites: users submit a survey + community members vote/discuss
-   - trial-period invites: users join as guests and members vote to make them a full member after a duration
+   - trial-period invites: new users join as guests and members vote to make them a full member after a duration
+   - event-based invites: new users attend a public-facing event, and members can vote to extend membership to them if they like them
    - closed invites: member proposes an invitation + community votes/discusses
    - simple vote kick/ban with discussion
    - report-based bans: members can anonymously report a user's behavior, if a member is reported by enough users it triggers a tribunal where the validity of the reports can be discussed and voted on
