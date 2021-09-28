@@ -72,3 +72,5 @@ If the community enables it, they can be shown in a public directory. You'll be 
   - member-provided services directory (like in mutual aid groups)
   - inventory - check-out/check-in (like in a library), trading between groups, history (who helped make/fix it)
   - funds tracking (like opencollective)
+- Association
+  - Tools for setting up agreements between communities
