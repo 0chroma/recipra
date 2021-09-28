@@ -28,7 +28,7 @@ Because members are the ones who host all the community's content, they are sole
 
 ### How well will this scale?
 
-There hasn't been many applications that have implemented a moderation system like this without succumbing to tyranny of the majority, which is why communities will likely work best at smaller scales where everyone knows each other and new members can be properly vetted. Communities will likely work best with 100 or fewer members. For more ambitious efforts, it's probably better to have tools for having multiple communities organize together rather than figuring out how to make the communities themselves larger.
+There haven't been many large scale applications that have implemented this kind of moderation system without succumbing to hivemind mentality, witch-hunts, and tyranny of the majority in general. Communities will likely work best at smaller scales where everyone knows each other and new members can be properly vetted. Communities will likely work best with 100 or fewer members. For more ambitious efforts, it's probably better to have tools for having multiple communities organize together rather than figuring out how to make the communities themselves larger. From a technical perspective, scaling trustless collaborative applications can also be difficult, though likely not impossible.
 
 ### Do you need to host a server to start a community?
 
