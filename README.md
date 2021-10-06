@@ -14,6 +14,12 @@ Communities that are dependent on authority figures for moderation are often bad
 
 Because members are the ones who host all the community's content, they are soley responsible for it's distribution. Users consent to viewing and serving the content within the community after accepting an invitation, and can preview a communitiy's content before accepting an invitation. Members can leave at any time to delete all community data from their devices and cease serving the data. This should be compatible with existing legal means of prosecuting offenders and removing illegal content.
 
+There will be a mechanism in place to prevent community discovery from being spammy/innapropriate (tbd)
+
+### How will devices share data if they can go offline and online regularly?
+
+With a large enough group, the chances of all but one device being offline at any given point should be relatively rare. In the event that it does happen, we can always apply a user's activity retroactively using CRDTs. For 1:1 interactions such as DMs, you can optionally have that data encrypted and replicated to other members' devices for syncing.
+
 ### Do you need to host a server to start a community?
 
 No, the community's data is stored and transmitted between devices without the need of a server like you would with a federated service.
@@ -46,9 +52,10 @@ If the community enables it, they can be shown in a public directory. You'll be 
   - video calls
   - text chat
 - Content
-  - wikis
-  - files/photos/videos
-  - code repositories
+  - wikis (with edit challenging/approval system)
+    - Can be used to establish community rules etc
+  - media gallery
+  - code/file repositories (via git)
   - public content publishing
 - Organization
   - task tracking
