@@ -28,7 +28,7 @@ Because members are the ones who host all the community's content, they are sole
 
 There will be a mechanism in place to prevent community discovery from being spammy/innapropriate (tbd)
 
-### How will devices share data if they can go offline and online regularly?
+### How will devices sync data without a server if they can go offline and online regularly?
 
 With a large enough group, the chances of all but one device being offline at any given point should be relatively rare. In the event that it does happen, we can always apply a user's activity retroactively using CRDTs. For 1:1 interactions such as DMs, you can optionally have that data encrypted and replicated to other members' devices for syncing.
 
