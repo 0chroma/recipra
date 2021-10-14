@@ -87,3 +87,4 @@ No, the community's data is stored and transmitted between devices without the n
   - funds tracking (like opencollective)
 - Association
   - Tools for setting up agreements between communities
+  - Profit sharing tools, integration with smart contracts
