@@ -51,6 +51,10 @@ No, the community's data is stored and transmitted between devices without the n
 - Modularity: The application should act only as scaffolding for creating a decentralized community, members should be able to adapt the application for their needs through user-made plugins
 - Portability: Needs to work across lots of different hardware, *especially* low-cost or second hand devices. It should be easy to port to different UI toolkits/platforms.
 
+## Architecture
+
+![Recipra Architecture](architecture.png)
+
 ## Plugin Ideas
 
 - Member management
