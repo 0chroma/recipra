@@ -90,5 +90,5 @@ No, the community's data is stored and transmitted between devices without the n
   - inventory - check-out/check-in (like in a library), trading between groups, history (who helped make/fix it)
   - funds tracking (like opencollective)
 - Association
-  - Tools for setting up agreements between communities
+  - Tools for for forming federations and allowing collaboration between communities
   - Profit sharing tools, integration with smart contracts
