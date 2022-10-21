@@ -75,6 +75,7 @@ No, the community's data is stored and transmitted between devices without the n
 - Communication
   - video calls
   - text chat
+  - embeddable game sdk
 - Content
   - wikis (with edit challenging/approval system)
     - Can be used to establish community rules etc
@@ -83,7 +84,8 @@ No, the community's data is stored and transmitted between devices without the n
   - public content publishing
 - Organization
   - task tracking
-  - events
+  - events/meetup planning tools
+  - bill splitting or group buy tools
   - community rules (with tools to discuss rules and vote to change them)
   - proposals (with consensus/voting tools)
   - member-provided services directory (like in mutual aid groups)
@@ -91,4 +93,4 @@ No, the community's data is stored and transmitted between devices without the n
   - funds tracking (like opencollective)
 - Association
   - Tools for for forming federations and allowing collaboration between communities
-  - Profit sharing tools, integration with smart contracts
+  - Profit sharing tools, integration with smart contracts?
