@@ -91,6 +91,7 @@ No, the community's data is stored and transmitted between devices without the n
   - member-provided services directory (like in mutual aid groups)
   - inventory - check-out/check-in (like in a library), trading between groups, history (who helped make/fix it)
   - funds tracking (like opencollective)
+  - unionizing tools (for community land trusts, worker unions, tenant unions etc)
 - Association
   - Tools for for forming federations and allowing collaboration between communities
   - Profit sharing tools, integration with smart contracts?
