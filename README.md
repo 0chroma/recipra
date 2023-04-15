@@ -93,6 +93,7 @@ No, the community's data is stored and transmitted between devices without the n
   - funds tracking (like opencollective)
   - unionizing tools (for community land trusts, worker unions, tenant unions etc)
   - [Quorum-based secret sharing](https://en.wikipedia.org/wiki/Shamir%27s_secret_sharing) for unlocking sensitive info for a group ([example](https://iancoleman.io/shamir/))
+  - VoIP phone # for the group, first person to pick up will be connected to the call
 - Association
   - Tools for for forming federations and allowing collaboration between communities
   - Profit sharing tools, integration with smart contracts?
