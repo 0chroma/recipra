@@ -92,6 +92,7 @@ No, the community's data is stored and transmitted between devices without the n
   - inventory - check-out/check-in (like in a library), trading between groups, history (who helped make/fix it)
   - funds tracking (like opencollective)
   - unionizing tools (for community land trusts, worker unions, tenant unions etc)
+  - [Quorum-based secret sharing](https://en.wikipedia.org/wiki/Shamir%27s_secret_sharing) for unlocking sensitive info for a group
 - Association
   - Tools for for forming federations and allowing collaboration between communities
   - Profit sharing tools, integration with smart contracts?
