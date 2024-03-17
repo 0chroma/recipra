@@ -10,7 +10,7 @@ Recipra is an application that allows the layperson to easily start a community 
 
 ## Help Needed
 
-Since this is a fairly ambitious project, it can use as many volunteers as possible! If you think you can help, don't be afraid to reach out!
+Since this is a fairly ambitious project, it can use as many volunteers as possible! If you think you can help, don't be afraid to reach out! The main component being worked on currently is the data sync tech, called [InductionDB](https://github.com/0chroma/InductionDB)
 
 ## FAQ
 
