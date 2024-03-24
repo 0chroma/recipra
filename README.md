@@ -97,3 +97,4 @@ No, the community's data is stored and transmitted between devices without the n
 - Association
   - Tools for for forming federations and allowing collaboration between communities
   - Profit sharing tools, integration with smart contracts?
+  - Shared code of conducts, moderation data, etc.
