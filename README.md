@@ -22,6 +22,8 @@ No, though you'll be able to provide a small profile. Have you ever had a mutual
 
 Communities that are dependent on authority figures for moderation are often bad for both parties: the moderation team often burns out since it's a stressful and thankless position to be in, and members can often feel unfairly treated if a single moderator abuses their authority. Distributing this responsibility gives everyone ownership over the community: the burden of making a bad decision won't lie on a single person's shoulders and allows the whole community to learn from the experience, and members are incentivized to limit invitations to people who won't cause drama.
 
+Recipra instead sees power as a social engineering vulnerability; if someone has the power to co-opt a group of agreeable, pro-social people, then we need to change it's structure in order to prevent anti-social people from forcing their will upon others, or manipulating the group.
+
 ### How will unethical or illegal content be removed?
 
 Because members are the ones who host all the community's content, they are soley responsible for it's distribution. Users consent to viewing and serving the content within the community after accepting an invitation, and can preview a communitiy's content beforehand. Members can decide collectively to have content removed, and can leave the community if they no longer wish to store and serve it's content. This should be compatible with existing legal means of prosecuting offenders and removing illegal content.
