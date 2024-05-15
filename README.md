@@ -8,6 +8,8 @@ A modular, decentralized social network for cooperatively run communities
 
 Recipra is an application that allows the layperson to easily start a community that everyone has a part in running. Communities built with Recipra can have chat, voice calls, events, and can even be extended with custom plugins. Recipra doesn't have a concept of moderation teams, making it relatively stress-free to run. They also don't require hosting or servers, making it easy for non-technical people to create a community, and making it free from corporate control and monitization.
 
+![Recipra Architecture](docs/assets/mockup.svg)
+
 ## Help Needed
 
 Since this is a fairly ambitious project, it can use as many volunteers as possible! If you think you can help, don't be afraid to reach out! The main component being worked on currently is the data sync tech, called [InductionDB](https://github.com/0chroma/InductionDB)
@@ -55,7 +57,7 @@ No, the community's data is stored and transmitted between devices without the n
 
 ## Architecture
 
-![Recipra Architecture](architecture.png)
+![Recipra Architecture](docs/assets/architecture.png)
 
 ## Plugin Ideas
 
