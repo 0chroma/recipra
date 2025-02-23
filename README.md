@@ -16,9 +16,17 @@ Since this is a fairly ambitious project, it can use as many volunteers as possi
 
 ## FAQ
 
-### Will I be able to post on a personal feed, like on other social media?
+### Will I be able to post on a personal feed and have an algorithmic timeline, like on other social media?
 
 No, though you'll be able to provide a small profile. Have you ever had a mutual on twitter that you've wanted to talk to, but never knew how to start the conversation? This is exactly the type of scenario Recipra tries to avoid. Social media that acts on the level of the individual often makes us feel more distant from others and pedestalizes a select few. By putting the focus on communities, it puts less pressure on the individual and makes meeting new people less daunting. It also allows someone's success to bring everyone in the group up together, where an individualized approach would lead to a select few snowballing their platform in isolation.
+
+Rather than providing an algorithmic feed of individual people's posts, we'd rather have people post things to a group, which encourages a community to form and encourages prosocial engagement. When posts spiral outside of their intended audiences, as is common with algorithmic communities, often it ends up losing it's intended context and triggers negative reactions from people misunderstanding the content.
+
+People you interact with frequently may appear more often in the group activity summaries, but rather than using algorithms as a solution for *every* problem, we'd rather give people regular suggestions to make it easier to manually curate what you see.
+
+### In groups, often some people are more active than others. How will this be handled?
+
+To avoid more vocal people flooding a group with content, we can provide the community tools to organize this content better, or condense it down to a single item and summarize it. This way quality should be prioritized over raw quantity.
 
 ### Why aren't there things like admins and moderators? How will communities stay civil?
 
