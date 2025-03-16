@@ -1,14 +1,10 @@
-# Recipra
-
-/rɪˈsɪppra/
-(ree·sip·prah)
-[Audio](http://ipa-reader.xyz/?text=r%C9%AA%CB%88s%C9%AAppra)
+# Haven
 
 A modular, decentralized social network for cooperatively run communities
 
-Recipra is an application that allows the layperson to easily start a community that everyone has a part in running. Communities built with Recipra can have chat, voice calls, events, and can even be extended with custom plugins. Recipra doesn't have a concept of moderation teams, making it relatively stress-free to run. They also don't require hosting or servers, making it easy for non-technical people to create a community, and making it free from corporate control and monitization.
+Haven is an application that allows the layperson to easily start a community that everyone has a part in running. Communities built with Haven can have chat, voice calls, events, and can even be extended with custom plugins. Haven doesn't have a concept of moderation teams, making it relatively stress-free to run. They also don't require hosting or servers, making it easy for non-technical people to create a community, and making it free from corporate control and monitization.
 
-![Recipra Mockup](docs/assets/mockup.svg)
+![Haven Mockup](docs/assets/mockup.svg)
 
 ## Help Needed
 
@@ -18,7 +14,7 @@ Since this is a fairly ambitious project, it can use as many volunteers as possi
 
 ### Will I be able to post on a personal feed and have an algorithmic timeline, like on other social media?
 
-No, though you'll be able to provide a small profile. Have you ever had a mutual on twitter that you've wanted to talk to, but never knew how to start the conversation? This is exactly the type of scenario Recipra tries to avoid. Social media that acts on the level of the individual often makes us feel more distant from others and pedestalizes a select few. By putting the focus on communities, it puts less pressure on the individual and makes meeting new people less daunting. It also allows someone's success to bring everyone in the group up together, where an individualized approach would lead to a select few snowballing their platform in isolation.
+No, though you'll be able to provide a small profile. Have you ever had a mutual on twitter that you've wanted to talk to, but never knew how to start the conversation? This is exactly the type of scenario Haven tries to avoid. Social media that acts on the level of the individual often makes us feel more distant from others and pedestalizes a select few. By putting the focus on communities, it puts less pressure on the individual and makes meeting new people less daunting. It also allows someone's success to bring everyone in the group up together, where an individualized approach would lead to a select few snowballing their platform in isolation.
 
 Rather than providing an algorithmic feed of individual people's posts, we'd rather have people post things to a group, which encourages a community to form and encourages prosocial engagement. When posts spiral outside of their intended audiences, as is common with algorithmic communities, often it ends up losing it's intended context and triggers negative reactions from people misunderstanding the content.
 
@@ -32,7 +28,7 @@ To avoid more vocal people flooding a group with content, we can provide the com
 
 Communities that are dependent on authority figures for moderation are often bad for both parties: the moderation team often burns out since it's a stressful and thankless position to be in, and members can often feel unfairly treated if a single moderator abuses their authority. Distributing this responsibility gives everyone ownership over the community: the burden of making a bad decision won't lie on a single person's shoulders and allows the whole community to learn from the experience, and members are incentivized to limit invitations to people who won't cause drama.
 
-Recipra instead sees power as a social engineering vulnerability; if someone has the power to co-opt a group of agreeable, pro-social people, then we need to change it's structure in order to prevent anti-social people from forcing their will upon others, or manipulating the group.
+Haven instead sees power as a social engineering vulnerability; if someone has the power to co-opt a group of agreeable, pro-social people, then we need to change it's structure in order to prevent anti-social people from forcing their will upon others, or manipulating the group.
 
 ### How will unethical or illegal content be removed?
 
