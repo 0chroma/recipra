@@ -38,7 +38,7 @@ Recipra instead sees power as a social engineering vulnerability; if someone has
 
 Because members are the ones who host all the community's content, they are soley responsible for it's distribution. Users consent to viewing and serving the content within the community after accepting an invitation, and can preview a communitiy's content beforehand. Members can decide collectively to have content removed, and can leave the community if they no longer wish to store and serve it's content. This should be compatible with existing legal means of prosecuting offenders and removing illegal content.
 
-There will be a mechanism in place to prevent community discovery from being spammy/innapropriate (tbd)
+There will be a mechanism in place to prevent user/community discovery from being spammy/innapropriate, likely via a gossiped web-of-trust through a user's personal connections.
 
 ### How will devices sync data without a server if they can go offline and online regularly?
 
