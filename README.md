@@ -73,7 +73,7 @@ No, the community's data is stored and transmitted between devices without the n
    - closed invites: member proposes an invitation + community votes/discusses
    - simple vote kick/ban with discussion
    - report-based bans: members can anonymously report a user's behavior, if a member is reported by enough users it triggers a tribunal where the validity of the reports can be discussed and voted on. If they are valid, members can vote on the severity of the consequences.
-   - ban appeals: mechanism for removing a ban if there's improved behavior in another community, proof that they've been seeing professional help, etc.
+   - ban appeals: allowing communities to reinstate membership if trust is regained
 - Voting Systems
   - Simple Majority/two-thirds majority
   - Ranked Choice
